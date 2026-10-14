@@ -4,14 +4,14 @@
 
 **A modern, responsive portfolio website highlighting practical skills in AWS Cloud Engineering, Infrastructure, Linux, and Cloud Networking.**
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white)](https://mushahid-aws-portfolio.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white)](https://aws-portfolio-bice.vercel.app/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://mushahid-aws-portfolio.vercel.app/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://mushahid-aws-portfolio.vercel.app/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://aws-portfolio-bice.vercel.app/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://aws-portfolio-bice.vercel.app/)
 
 <br />
 
-🌐 **Live Deployment:** [https://mushahid-aws-portfolio.vercel.app/](https://mushahid-aws-portfolio.vercel.app/)
+🌐 **Live Deployment:** [https://aws-portfolio-bice.vercel.app/](https://aws-portfolio-bice.vercel.app/)
 
 </div>
 
@@ -29,7 +29,7 @@ The website is designed with a dark, high-contrast engineering aesthetic and opt
 
 You can view the live, production-deployed website here:
 
-👉 **[https://mushahid-aws-portfolio.vercel.app/](https://mushahid-aws-portfolio.vercel.app/)**
+👉 **[https://aws-portfolio-bice.vercel.app/](https://aws-portfolio-bice.vercel.app/)**
 
 ---
 
@@ -104,5 +104,5 @@ To run this project locally on your machine:
 
 ## 🤝 Let's Connect
 
-- **Live Portfolio:** [mushahid-aws-portfolio.vercel.app](https://mushahid-aws-portfolio.vercel.app/)
+- **Live Portfolio:** [aws-portfolio-bice.vercel.app](https://aws-portfolio-bice.vercel.app/)
 - **GitHub:** [@Md-Muwahid-Amjad](https://github.com/Md-Muwahid-Amjad)
